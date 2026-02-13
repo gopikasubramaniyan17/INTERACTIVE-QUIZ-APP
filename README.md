@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-##1. Introduction
+1. Introduction
 
 As part of my internship task, I developed an Interactive Quiz Application using basic web technologies. The purpose of this project is to allow users to answer multiple-choice questions, receive instant feedback for each answer, and view their final score at the end of the quiz. The application is designed to be simple, easy to understand, and user-friendly while still meeting all the requirements given during the internship.
 
@@ -78,6 +78,6 @@ During development, the application was tested multiple times to identify errors
 
 This project helped me gain practical knowledge of frontend web development. I learned how HTML, CSS, and JavaScript work together to create an interactive web application. I also learned how to handle user inputs, manage application flow, and provide instant feedback. The Interactive Quiz Application successfully meets all the internship requirements and serves as a strong foundation for future web-based projects.
 
-#OUTPUT
+OUTPUT
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/dbcb7e44-2d23-4e81-903b-f0262d2c4028" />
