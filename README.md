@@ -12,6 +12,8 @@
 
 *MENTOR*: NEELA SANTOSH
 
+INTERACTIVE QUIZ APP - DESCRIPTION
+
 1. Introduction
 
 As part of my internship task, I developed an Interactive Quiz Application using basic web technologies. The purpose of this project is to allow users to answer multiple-choice questions, receive instant feedback for each answer, and view their final score at the end of the quiz. The application is designed to be simple, easy to understand, and user-friendly while still meeting all the requirements given during the internship.
