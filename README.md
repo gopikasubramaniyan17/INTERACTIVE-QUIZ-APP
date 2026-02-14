@@ -83,3 +83,5 @@ This project helped me gain practical knowledge of frontend web development. I l
 OUTPUT
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/dbcb7e44-2d23-4e81-903b-f0262d2c4028" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/37095b48-02c4-4fd4-bb4c-c3f6fe579fd4" />
